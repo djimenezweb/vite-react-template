@@ -23,6 +23,6 @@ module.exports = {
 	},
 	plugins: ['react'],
 	rules: {
-		'react/props': 'off'
+		'react/prop-types': 'off'
 	}
 };
